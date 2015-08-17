@@ -1,0 +1,14 @@
+书单
+APUE
+UNP I II
+TCP IP详解 I II III
+linux私房菜
+shell脚本学习指南
+python学习手册
+programming python 4th edit
+c++ primer
+Effective C++
+程序员的自我修养
+深入理解计算机系统
+编译原理
+算法导论
